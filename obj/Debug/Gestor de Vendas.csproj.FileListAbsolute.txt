@@ -1,0 +1,10 @@
+c:\users\juciano silva\documents\visual studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\bin\Debug\Gestor de Vendas.exe.config
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\bin\Debug\Gestor de Vendas.exe
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\bin\Debug\Gestor de Vendas.pdb
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor de Vendas.csprojResolveAssemblyReference.cache
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor_de_Vendas.Form1.resources
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor_de_Vendas.Properties.Resources.resources
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor de Vendas.csproj.GenerateResource.Cache
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor de Vendas.exe
+C:\Users\JUCIANO SILVA\Documents\Visual Studio 2015\Projects\Gestor de Vendas\Gestor de Vendas\obj\Debug\Gestor de Vendas.pdb
